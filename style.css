@@ -1,0 +1,258 @@
+body{
+    font-family: "Anta", sans-serif;
+    background-image: url(imagini/bg14.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: aliceblue;
+    margin: 20px;
+    font-size: large;
+    text-align: center;
+}
+h1 {margin-top: 30px;
+    color: rgb(255, 0, 179);
+    font-size: 46px;
+    padding-top: 10px;
+    text-align: center;
+}
+.subtitlu {
+    color: rgb(255, 0, 179);
+    text-decoration: overline;
+}
+nav {
+    display: flex;
+    color: aliceblue;
+    margin: 10px;
+    
+}
+nav a {
+    border-radius: 20px;
+    margin: 3px;
+    border: 2px solid rgb(128, 0, 128);
+    background-color: fixed;
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 15px;
+}
+ a {
+color:aliceblue
+ }
+.chenar {
+    display: flex;
+    columns: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+    color: white;
+}
+.juma {
+width: 50%;
+}
+.coloane2 {
+display: flex;
+width: 40%;
+columns: 2;
+}
+.margine-stanga {
+margin-left: 50px;
+
+}
+
+.fara-punct-lista {
+list-style-type: none;
+white-space: nowrap;
+
+}
+.lista-fara-punct {
+list-style-type: none;
+color: rgb(35, 234, 9);
+}
+.flex {
+display: flex;
+width: 100%;
+justify-content: center;
+margin-bottom: 40px;}
+.elcard {
+width: 32%;
+border: 4px solid white;
+margin: 5px;
+}
+.cronologie {
+    color: black;
+    background-color: white;
+    justify-content: center;
+}
+.galerie {
+width: 30%;
+margin-left: 10px;
+margin-right: 10px;
+}
+.an22 {
+width: 25%;
+margin-left: 5px;
+margin-left: 5px;
+}
+.an21 {
+width: 20%;
+margin-left: 5px;
+margin-right: 5px;
+}
+.poze3 {
+    width: 96%;
+    display: block;
+    margin-left: auto ;
+    margin-right: auto;
+    margin-top: 8px;
+    margin-bottom: auto;
+    border-radius: 5%;
+}
+.poza-rotunda {
+border: 5px solid rgb(255, 0, 179);
+border-radius: 50%;
+border-style: inset;
+padding: 5px;
+float: right;
+margin: 70px;
+}
+.zile-coloane {
+    display: flex;
+    width: 70%;
+    justify-content: center;
+    border: 5px solid rgb(35, 234, 9);
+}
+.pozav {
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+width: 70%;
+border-radius: 10%;
+}
+.vol {
+width: 100%;
+padding-top: 5%;
+margin-bottom: 40px;
+}
+
+.poza1 {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 80%;
+border-radius: 10%;
+}
+.centrare-program {
+display: block;
+justify-content: center;
+margin-left: 20%;
+width: 80%;
+}
+.paralel {
+width: 100%;
+columns: 3;
+}
+.parelel2 {
+width: 90%;
+columns: 2;
+padding: 20px 20px;
+justify-content: center;
+}
+.pe-sferturi {
+display: flex;
+width: 90%;
+columns: 2;
+padding: 20px 20px;
+justify-content: end;
+
+}
+.poza-stanga {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+border-top-left-radius: 30%;
+}
+.poza-dreapta {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+border-bottom-right-radius: 30%;
+}
+
+.margin-right {
+margin-right: 20%;
+}
+h3 {
+    color: rgb(35, 234, 9);
+}
+h4 {
+color: rgb(35, 234, 9);
+}
+h5 {
+color: white;
+}
+.text-stanga {
+margin-left: 10px;
+text-align: left;
+white-space: nowrap;
+color: rgb(35, 234, 9);
+}
+.verde {color:rgb(35, 234, 9)}
+.roz {color: rgb(255, 0, 179)}
+.albastru {color: rgb(0, 187, 255);}
+
+p {color: white;}
+h2 {
+background-color: white;
+color: black;
+}
+.overline {
+text-decoration: underline;
+margin-left: 40px;
+}
+.stanga {
+margin-left: 34px;
+color: rgb(35, 234, 9);
+}
+.logo {
+    height: 60px;
+    justify-content: start;
+}
+
+footer {
+    width: 98%;
+    padding: 10px 10px;
+    margin-top: 10px;
+    text-align: center;
+    justify-content: space-evenly;
+    border-top: 100%;
+    border-style: double;
+    border-color: white;
+}
+.iconite {
+    height: 50px;
+}
+.icon {
+    height: 40px;
+}
+.icon2 {
+    height: 30px;
+}
+.harta {
+    display: block;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.padding {
+    padding: 4px;
+}
+.retele {
+    padding-top: 20px;
+}
+.jumma {
+    width: 40%;
+    place-items: center;
+}
